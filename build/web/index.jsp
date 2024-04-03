@@ -75,9 +75,9 @@
             <tr>
                <th>Id</th>
             <th>Nombre</th>
-               <th>P1</th>
-               <th>P2</th>
-               <th>Ef</th>
+               <th>P1(30)</th>
+               <th>P2(30)</th>
+               <th>Ef(40)</th>
                <th>Nota</th>
                <th></th>
             </tr> 
